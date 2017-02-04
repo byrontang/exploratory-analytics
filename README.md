@@ -1,6 +1,6 @@
 # exploratory-analytics
 
-This repository presents a selection of codes for various schoexploratory projects.
+This repository presents a selection of works for various schoexploratory projects.
 
   1) Impact of Fracking on Earthquake in Oklahoma
 	
@@ -9,4 +9,4 @@ This repository presents a selection of codes for various schoexploratory projec
   3) Vehicle Fuel Efficiency Examination
 	
 
-The above projects were done in a team of 3 – 5 team members. Only the codes of my parts are presented.
+The above projects were done in a team of 3 – 5 team members. In terms of the codes, only my parts are presented.
